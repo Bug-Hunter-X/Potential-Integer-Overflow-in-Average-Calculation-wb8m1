@@ -1,0 +1,1 @@
+This repository demonstrates a potential integer overflow bug in a Swift function designed to calculate the average of an array of Doubles.  The bug occurs when the sum of the numbers exceeds the maximum value that can be stored in a Double. The solution demonstrates how to mitigate this issue using a more robust approach.
